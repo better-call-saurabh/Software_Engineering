@@ -54,7 +54,7 @@ public class Send_OTP{
       }
       
   
-     Mailer.send("saurabhcs8802@gmail.com","ehxsvwmofwicxfhi","saurabhcs8802@dbatu.ac.in","OTP",otp);  
+     Mailer.send("saurabhcs8802@gmail.com","One-Time App Password","saurabhcs8802@dbatu.ac.in","OTP",otp);  
      //change from, password and to  
  }    
 }
