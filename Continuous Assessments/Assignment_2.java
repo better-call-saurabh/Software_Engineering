@@ -58,7 +58,7 @@ class Mailer{
 	 public static void main(String[] args) {    
 	     //from,password,to,subject,message  
 		 String mes = generate_otp(6);
-	     Mailer.send("prajwaltupare@gmail.com","lzmetvnxubglxicv","saurabhcs8802@gmail.com","OTP",mes);  
+	     Mailer.send("saurabhcs8802@gmail.com","One-Time App Password","saurabhcs8802@dbatu.ac.in","OTP",mes);  
 	     //change from, password and to  
 	 }    
 	
